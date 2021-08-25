@@ -1,0 +1,16 @@
+{
+  "name": "packer",
+  "version": "1.0.0",
+  "description": "CLI tool to compress or extract files",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "https://panesarpbx8.vercel.app",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "inquirer": "^8.1.2"
+  }
+}
