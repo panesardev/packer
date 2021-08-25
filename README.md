@@ -1,6 +1,6 @@
 # Packer
 
-Make sure you have (node)[https://nodejs.org/en/] installed
+Make sure you have [node](https://nodejs.org/en/) installed
 
 Run the following commands
 
